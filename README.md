@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharonodima
 - 👀 I’m interested in fullstack web development.
 - 🌱 I’m currently learning fullstack web development.
-- 💞️ I’m looking to collaborate on nothing at the moment. 
+
 - 📫 How to reach me via email at odimasharon@gmail.com.
 
 <!---
