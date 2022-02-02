@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sharonodima
 - 👀 I’m interested in fullstack web development.
-- 🌱 I’m currently learning fullstack web development.
-
-- 📫 How to reach me via email at odimasharon@gmail.com.
+- 🌱 I’m currently learning fullstack web development at Bloom Tech Institute of Technology. I am well versed in Javscript, HTML, CSS and Python.
+- 📫 Reach me via email at odimasharon@gmail.com or via phone at +1 (919) 525-9135
 
 <!---
 sharonodima/sharonodima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
